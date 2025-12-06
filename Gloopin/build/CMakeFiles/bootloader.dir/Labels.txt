@@ -1,13 +1,13 @@
 # Target labels
  bootloader
 # Source files and their labels
-C:/Users/simon/Desktop/bloopin/Gloopin/build/CMakeFiles/bootloader
-C:/Users/simon/Desktop/bloopin/Gloopin/build/CMakeFiles/bootloader.rule
-C:/Users/simon/Desktop/bloopin/Gloopin/build/CMakeFiles/bootloader-complete.rule
-C:/Users/simon/Desktop/bloopin/Gloopin/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
-C:/Users/simon/Desktop/bloopin/Gloopin/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
-C:/Users/simon/Desktop/bloopin/Gloopin/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
-C:/Users/simon/Desktop/bloopin/Gloopin/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
-C:/Users/simon/Desktop/bloopin/Gloopin/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
-C:/Users/simon/Desktop/bloopin/Gloopin/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
-C:/Users/simon/Desktop/bloopin/Gloopin/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
+C:/Users/simon/Documents/GitHub/Mouse/Gloopin/build/CMakeFiles/bootloader
+C:/Users/simon/Documents/GitHub/Mouse/Gloopin/build/CMakeFiles/bootloader.rule
+C:/Users/simon/Documents/GitHub/Mouse/Gloopin/build/CMakeFiles/bootloader-complete.rule
+C:/Users/simon/Documents/GitHub/Mouse/Gloopin/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+C:/Users/simon/Documents/GitHub/Mouse/Gloopin/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+C:/Users/simon/Documents/GitHub/Mouse/Gloopin/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+C:/Users/simon/Documents/GitHub/Mouse/Gloopin/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+C:/Users/simon/Documents/GitHub/Mouse/Gloopin/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+C:/Users/simon/Documents/GitHub/Mouse/Gloopin/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+C:/Users/simon/Documents/GitHub/Mouse/Gloopin/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule

@@ -1,4 +1,4 @@
-/* * Data converted from C:/Users/simon/Desktop/bloopin/Gloopin/build/esp-idf/mbedtls/x509_crt_bundle
+/* * Data converted from C:/Users/simon/Documents/GitHub/Mouse/Gloopin/build/esp-idf/mbedtls/x509_crt_bundle
  */
 .data
 #if !defined (__APPLE__) && !defined (__linux__)

@@ -19,6 +19,9 @@
 #include "driver/gpio.h"
 #include "esp_log.h"
 
+// Forward declaration
+static void IRAM_ATTR gpio_isr_handler(void* arg);
+
 #define motorA_in1 5
 #define motorA_in2 4
 #define motorB_in1 40

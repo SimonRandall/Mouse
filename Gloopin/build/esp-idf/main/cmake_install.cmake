@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/simon/Desktop/bloopin/Gloopin/main
+# Install script for directory: C:/Users/simon/Documents/GitHub/Mouse/Gloopin/main
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

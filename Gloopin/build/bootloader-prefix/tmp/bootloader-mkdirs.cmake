@@ -10,18 +10,18 @@ if(NOT EXISTS "C:/Users/simon/esp/v5.5.1/esp-idf/components/bootloader/subprojec
   file(MAKE_DIRECTORY "C:/Users/simon/esp/v5.5.1/esp-idf/components/bootloader/subproject")
 endif()
 file(MAKE_DIRECTORY
-  "C:/Users/simon/Desktop/bloopin/Gloopin/build/bootloader"
-  "C:/Users/simon/Desktop/bloopin/Gloopin/build/bootloader-prefix"
-  "C:/Users/simon/Desktop/bloopin/Gloopin/build/bootloader-prefix/tmp"
-  "C:/Users/simon/Desktop/bloopin/Gloopin/build/bootloader-prefix/src/bootloader-stamp"
-  "C:/Users/simon/Desktop/bloopin/Gloopin/build/bootloader-prefix/src"
-  "C:/Users/simon/Desktop/bloopin/Gloopin/build/bootloader-prefix/src/bootloader-stamp"
+  "C:/Users/simon/Documents/GitHub/Mouse/Gloopin/build/bootloader"
+  "C:/Users/simon/Documents/GitHub/Mouse/Gloopin/build/bootloader-prefix"
+  "C:/Users/simon/Documents/GitHub/Mouse/Gloopin/build/bootloader-prefix/tmp"
+  "C:/Users/simon/Documents/GitHub/Mouse/Gloopin/build/bootloader-prefix/src/bootloader-stamp"
+  "C:/Users/simon/Documents/GitHub/Mouse/Gloopin/build/bootloader-prefix/src"
+  "C:/Users/simon/Documents/GitHub/Mouse/Gloopin/build/bootloader-prefix/src/bootloader-stamp"
 )
 
 set(configSubDirs )
 foreach(subDir IN LISTS configSubDirs)
-    file(MAKE_DIRECTORY "C:/Users/simon/Desktop/bloopin/Gloopin/build/bootloader-prefix/src/bootloader-stamp/${subDir}")
+    file(MAKE_DIRECTORY "C:/Users/simon/Documents/GitHub/Mouse/Gloopin/build/bootloader-prefix/src/bootloader-stamp/${subDir}")
 endforeach()
 if(cfgdir)
-  file(MAKE_DIRECTORY "C:/Users/simon/Desktop/bloopin/Gloopin/build/bootloader-prefix/src/bootloader-stamp${cfgdir}") # cfgdir has leading slash
+  file(MAKE_DIRECTORY "C:/Users/simon/Documents/GitHub/Mouse/Gloopin/build/bootloader-prefix/src/bootloader-stamp${cfgdir}") # cfgdir has leading slash
 endif()
